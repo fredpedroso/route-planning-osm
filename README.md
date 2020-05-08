@@ -1,4 +1,5 @@
 # Route Planning Project
+This is my final project of the foundations module in Udacity's Nanodegree C++ training.
 
 <img src="map.png" width="600" height="450" />
 
